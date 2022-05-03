@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kashishm273
 - 👀 I’m interested in Mobile App development, native (Android) as well as cross platform (Flutter)
 - 🌱 I’m currently learning Flutter 
-- 💞️ I’m looking to collaborate on any interesting projects
+- 💞️ I’m looking to collaborate on any project that is interesting
 - 📫 How to reach me - kashishm27@gmail.com
 
 <!---
